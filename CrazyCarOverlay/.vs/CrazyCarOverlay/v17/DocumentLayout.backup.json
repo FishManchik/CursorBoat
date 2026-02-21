@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\CrazyCarOverlay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|C:\\Unity Projects\\CrazyCarOverlay\\assets\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|c:\\unity projects\\crazycaroverlay\\assets\\weatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\weatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|C:\\Unity Projects\\CrazyCarOverlay\\assets\\madboatbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\madboatbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|C:\\Unity Projects\\CrazyCarOverlay\\assets\\windowminimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\windowminimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|C:\\Unity Projects\\CrazyCarOverlay\\assets\\boatanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\boatanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|C:\\Unity Projects\\CrazyCarOverlay\\assets\\clickplayerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\clickplayerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|c:\\unity projects\\crazycaroverlay\\assets\\conespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\conespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|C:\\Unity Projects\\CrazyCarOverlay\\assets\\cargobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\cargobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|C:\\Unity Projects\\CrazyCarOverlay\\assets\\boxthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4411E0-2B93-939F-2CF2-0E208F05BDAE}|Assembly-CSharp.csproj|solutionrelative:assets\\boxthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherHandler.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\WeatherHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\WeatherHandler.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\WeatherHandler.cs",
+              "RelativeToolTip": "Assets\\WeatherHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:18:30.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowMinimizer.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\WindowMinimizer.cs",
+              "RelativeDocumentMoniker": "Assets\\WindowMinimizer.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\WindowMinimizer.cs",
+              "RelativeToolTip": "Assets\\WindowMinimizer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T21:58:47.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoxThrower.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\BoxThrower.cs",
+              "RelativeDocumentMoniker": "Assets\\BoxThrower.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\BoxThrower.cs",
+              "RelativeToolTip": "Assets\\BoxThrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T21:21:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MadBoatBehaviour.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\MadBoatBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\MadBoatBehaviour.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\MadBoatBehaviour.cs",
+              "RelativeToolTip": "Assets\\MadBoatBehaviour.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA2wG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T21:12:21.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CargoBox.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\CargoBox.cs",
+              "RelativeDocumentMoniker": "Assets\\CargoBox.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\CargoBox.cs",
+              "RelativeToolTip": "Assets\\CargoBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T21:11:22.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConeSpawner.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\ConeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ConeSpawner.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\ConeSpawner.cs",
+              "RelativeToolTip": "Assets\\ConeSpawner.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:38:21.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\InputHandler.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\InputHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:10:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoatAnimator.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\BoatAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\BoatAnimator.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\BoatAnimator.cs",
+              "RelativeToolTip": "Assets\\BoatAnimator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:09:39.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClickPlayerPosition.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\ClickPlayerPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\ClickPlayerPosition.cs",
+              "ToolTip": "C:\\Unity Projects\\CrazyCarOverlay\\Assets\\ClickPlayerPosition.cs",
+              "RelativeToolTip": "Assets\\ClickPlayerPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:45:35.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
