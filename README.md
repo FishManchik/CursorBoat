@@ -1,5 +1,5 @@
 <h1>About the game</h1>
-CursorBoat - is a cute little project I made in one day that allows you to add a lovely fishing boat to your desktop!
+CursorBoat - is a cute little project I made in one day that adds a lovely fishing boat to your desktop!
 
 Link to the game on Itch.io: <a href="https://fishman-games.itch.io/cursorboat"> https://fishman-games.itch.io/cursorboat </a>
 
